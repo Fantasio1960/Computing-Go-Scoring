@@ -25,3 +25,5 @@
 ' the number of the string is kept in the public matrix ID(), indexed by means of the goban's coordinates, i.e. ID(9,9) contains the number
 ' of the string including the stone (if there is one) on the Tengen point)
 ' it calls an external routine called "score", that displays (usually on a textBox) extended informationss regarding the score of the game
+
+The file dyer.rar contains 623 scored games I tested the module on. They have been collected by David Dyer in 2007, and may also be found at: http://www.real-me.net/ddyer/go/scored-games.zip
